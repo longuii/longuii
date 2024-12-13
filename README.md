@@ -19,6 +19,4 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/longuii/longuii/output/snake.svg" alt="Snake animation" />
 
-###
