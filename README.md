@@ -1,7 +1,7 @@
 ## Olá me chamo João guilherme! 👋
 
 - 🔭 Atualmente trabalhando com front-end
-- 🌱 Estudando PHP
+- 🌱 Estudando PHP e Javascript
 - 😄 Prononomes: (Ele/dele)
 
 <div align="center">
